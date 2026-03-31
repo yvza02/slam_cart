@@ -202,9 +202,3 @@ These scripts can command motors immediately.
 - Test with wheels off the ground first.
 - Keep an emergency stop ready (power switch / unplug / kill process).
 - Start with low speeds and short timeouts.
-
----
-
-## Notes
-
-Many files include embedded documentation banners and some module names don’t match their contents. If you’d like, I can also do a small repo “cleanup pass” (rename the real modules, keep the demo scripts, and make `main.py` a real entrypoint) while keeping behavior unchanged.
